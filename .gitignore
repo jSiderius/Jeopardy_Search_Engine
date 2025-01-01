@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Virtual environment
+venv/
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# MacOS
+.DS_Store
+
+# Other backups or temporary files
+*.tmp
+*.old
+*.orig
+*.bak
+
